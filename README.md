@@ -13,6 +13,10 @@
 1. Developed C code to implement CUDA kernels on GPGPU, and MPI data-sharing frameworks to parallelize GMAM
 2. Achieved 5 times reduction in code runtime with OpenMP, MPI and CUDA C (GPGPU) in a supercomputer facility
 
+**Parallelisation of 0th order Generalised Mode Acceleration Method (GMAM) using C code**
+1. Developed C code to implement CUDA kernels on GPGPU, and MPI data-sharing frameworks to parallelize GMAM Method
+2. Achieved 5 times reduction in code runtime with OpenMP, MPI and CUDA (GPGPU) on Param Sanganak supercomputer in IIT, Kanpur
+
 Reports and Presentation may be referred for verification of all the points. Snips are attached here for quick verification.
 
 ![image](https://user-images.githubusercontent.com/71177034/129440079-328fd2b6-98cc-42aa-9878-8a9009247e25.png)
