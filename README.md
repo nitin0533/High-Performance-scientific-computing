@@ -7,7 +7,7 @@
 
 **Parallelisation of 0th order Generalised Mode Acceleration Method (GMAM) using C code**
 1. Performed Model order reduction using Guyan Condensation of a 2-D cantilever and determined the dynamic response using GMAM
-2. Acheived 5 times reduction in code runtime using OpenMP, MPI CUDA C (GPGPU) frameworks in a supercomputer facility at IIT-K
+2. Acheived 5 times reduction in code runtime using OpenMP, MPI & CUDA C (GPGPU) frameworks in a supercomputer facility at IIT-K
 
 **Parallelization of Generalized Mode Acceleration Method (GMAM)**
 1. Developed C code to implement CUDA kernels on GPGPU, and MPI data-sharing frameworks to parallelize GMAM
