@@ -3,7 +3,7 @@
  **Parallelization of 0th Order Generalised Mode Acceleration Method (GMAM) using C code**
 1. Performed Model order reduction using Guyan Condensation of a 2-D cantilever subjected to harmonic nodal forces
 2. Computed dynamic nodal responses by implementing GMAM using first 10 Eigen-modes found by QR decomposition
-3. Acheived 5 times reduction in code runtime by parallelisation using OpenMP, MPI & CUDA C frameworks
+3. Acheived 5 times reduction in code runtime by parallelisation using OpenMP, MPI & CUDA C (GPGPU) frameworks
 
 **Parallelisation of 0th order Generalised Mode Acceleration Method (GMAM) using C code**
 1. Performed Model order reduction using Guyan Condensation of a 2-D cantilever and determined the dynamic response using GMAM
